@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Companies>
+	<Company>
+		<Code>5555</Code>
+		<Company_Name>Company1</Company_Name>
+		<Brand>
+			<Brand_Code>1111</Brand_Code>
+			<Brand_Name>Brand One</Brand_Name>
+		</Brand>
+		<Brand>
+			<Brand_Code>2222</Brand_Code>
+			<Brand_Name>Brand Two</Brand_Name>
+		</Brand>
+	</Company>
+	<Company>
+		<Code>3333</Code>
+		<Company_Name>Company2</Company_Name>
+		<Brand>
+			<Brand_Code>1111</Brand_Code>
+			<Brand_Name>Brand One</Brand_Name>
+		</Brand>
+		<Brand>
+			<Brand_Code>1112</Brand_Code>
+			<Brand_Name>Brand Two</Brand_Name>
+		</Brand>
+	</Company>
+</Companies>
